@@ -33,3 +33,4 @@ Confira meus repositórios para acompanhar minha evolução e meus projetos em d
 ### 🔗 Contato
 
 - GitHub: [@GabrielMalakian](https://github.com/GabrielMalakian)
+- Linkedin: https://www.linkedin.com/in/gabriel-araujo-de-brito-a420b71b5/
